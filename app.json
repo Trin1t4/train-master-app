@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "TrainMaster",
+    "slug": "train-master-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.trainsmart.trainmaster"
+    },
+    "android": {
+      "package": "com.trainsmart.trainmaster"
+    }
+  }
+}
